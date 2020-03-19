@@ -10,6 +10,6 @@ Display the Fourier-transform magnitude figures.
 Let f(x; y) be the "lake" image and create the corrupted imagec(x; y).\
 Design a suitable notch  filter H(u; v) that when applied to c(x; y) gives an image g(x; y) that nearly resembles the original image f(x; y). \
 Give suitable pictures of:\
-i.f(x; y),jF(u; v)j,c(x; y),jC(u; v)j\
-ii.jH(u; v)j,g(x; y),jG(u; v)j\
-iii. The image and Fourier-transform magnitude of the difference image (f(x; y)-g(x; y)).\
+i.f(x; y),F(u; v),c(x; y),C(u; v)\
+ii.H(u; v),g(x; y),G(u; v)\
+iii. The image and Fourier-transform magnitude of the difference image (f(x; y)-g(x; y)).
